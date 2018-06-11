@@ -53,6 +53,13 @@
 		"monthOriginalPrice": "15",
 		"seasonOriginalPrice": "30",
 		"yearOriginalPrice": "120"
+	},"googlePlay": {
+		"month": "1.99",
+		"season": "3.99",
+		"year": "7.99",
+		"monthOriginalPrice": "15",
+		"seasonOriginalPrice": "30",
+		"yearOriginalPrice": "120"
 	},
 	"sanxing": {
 		"month": "1.99",
